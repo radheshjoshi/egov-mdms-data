@@ -16822,6 +16822,42 @@
       "serviceCode": "pgr-services",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2009,
+      "name": "Birth registration module create",
+      "url": "/birth-registration/registration/v1/_create",
+      "parentModule": "",
+      "displayName": "Birth registration",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "BTR",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2010,
+      "name": "Birth registration module update",
+      "url": "/birth-registration/registration/v1/_update",
+      "parentModule": "",
+      "displayName": "Birth registration",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "BTR",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2010,
+      "name": "Birth registration module search",
+      "url": "/birth-registration/registration/v1/_search",
+      "parentModule": "",
+      "displayName": "Birth registration",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "BTR",
+      "code": "null",
+      "path": ""
     }
   ]
 }

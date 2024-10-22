@@ -552,6 +552,10 @@
     {
       "format":"PB-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
       "idname":"noc.application.number"
+    },
+    {
+      "format": "PB-BTR-[cy:yyyy-MM-dd]-[SEQ_EG_BTR_ID]",
+      "idname": "btr.registrationid"
     }
   ]
 }
